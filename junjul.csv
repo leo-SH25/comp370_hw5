@@ -1,0 +1,819 @@
+complaint type,borough,count
+AHV Inspection Unit,BROOKLYN,2
+AHV Inspection Unit,MANHATTAN,9
+APPLIANCE,BRONX,1488
+APPLIANCE,BROOKLYN,1148
+APPLIANCE,MANHATTAN,681
+APPLIANCE,QUEENS,503
+APPLIANCE,STATEN ISLAND,75
+Abandoned Bike,BRONX,12
+Abandoned Bike,BROOKLYN,225
+Abandoned Bike,MANHATTAN,147
+Abandoned Bike,QUEENS,85
+Abandoned Bike,STATEN ISLAND,6
+Abandoned Vehicle,BRONX,1498
+Abandoned Vehicle,BROOKLYN,4516
+Abandoned Vehicle,MANHATTAN,443
+Abandoned Vehicle,QUEENS,4919
+Abandoned Vehicle,STATEN ISLAND,858
+Abandoned Vehicle,Unspecified,1
+Adopt-A-Basket,BROOKLYN,1
+Air Quality,BRONX,123
+Air Quality,BROOKLYN,487
+Air Quality,MANHATTAN,524
+Air Quality,QUEENS,388
+Air Quality,STATEN ISLAND,51
+Animal Facility - No Permit,BROOKLYN,7
+Animal Facility - No Permit,MANHATTAN,3
+Animal Facility - No Permit,QUEENS,10
+Animal Facility - No Permit,STATEN ISLAND,2
+Animal in a Park,BRONX,98
+Animal in a Park,BROOKLYN,368
+Animal in a Park,MANHATTAN,277
+Animal in a Park,QUEENS,164
+Animal in a Park,STATEN ISLAND,53
+Animal-Abuse,BRONX,302
+Animal-Abuse,BROOKLYN,490
+Animal-Abuse,MANHATTAN,433
+Animal-Abuse,QUEENS,423
+Animal-Abuse,STATEN ISLAND,125
+Asbestos,BRONX,33
+Asbestos,BROOKLYN,80
+Asbestos,MANHATTAN,60
+Asbestos,QUEENS,65
+Asbestos,STATEN ISLAND,13
+BEST/Site Safety,BRONX,5
+BEST/Site Safety,BROOKLYN,26
+BEST/Site Safety,MANHATTAN,15
+BEST/Site Safety,QUEENS,12
+BEST/Site Safety,STATEN ISLAND,3
+Beach/Pool/Sauna Complaint,BRONX,10
+Beach/Pool/Sauna Complaint,BROOKLYN,21
+Beach/Pool/Sauna Complaint,MANHATTAN,20
+Beach/Pool/Sauna Complaint,QUEENS,26
+Beach/Pool/Sauna Complaint,STATEN ISLAND,18
+Bench,BRONX,1
+Bench,BROOKLYN,2
+Bench,MANHATTAN,1
+Bike Rack,MANHATTAN,4
+Bike Rack,QUEENS,2
+Bike Rack Condition,BRONX,5
+Bike Rack Condition,BROOKLYN,8
+Bike Rack Condition,MANHATTAN,26
+Bike Rack Condition,QUEENS,8
+Bike Rack Condition,STATEN ISLAND,1
+Bike/Roller/Skate Chronic,BRONX,47
+Bike/Roller/Skate Chronic,BROOKLYN,98
+Bike/Roller/Skate Chronic,MANHATTAN,123
+Bike/Roller/Skate Chronic,QUEENS,91
+Bike/Roller/Skate Chronic,STATEN ISLAND,16
+Blocked Driveway,BRONX,4256
+Blocked Driveway,BROOKLYN,9834
+Blocked Driveway,MANHATTAN,568
+Blocked Driveway,QUEENS,11784
+Blocked Driveway,STATEN ISLAND,751
+Boilers,BRONX,39
+Boilers,BROOKLYN,79
+Boilers,MANHATTAN,51
+Boilers,QUEENS,37
+Boilers,STATEN ISLAND,4
+Boilers,Unspecified,1
+Borough Office,BRONX,1
+Borough Office,QUEENS,1
+Bridge Condition,BRONX,2
+Bridge Condition,BROOKLYN,32
+Bridge Condition,MANHATTAN,33
+Bridge Condition,QUEENS,12
+Broken Parking Meter,BRONX,57
+Broken Parking Meter,BROOKLYN,108
+Broken Parking Meter,MANHATTAN,163
+Broken Parking Meter,QUEENS,159
+Broken Parking Meter,STATEN ISLAND,22
+Building Drinking Water Tank,BROOKLYN,1
+Building Drinking Water Tank,MANHATTAN,4
+Building Drinking Water Tank,QUEENS,2
+Building Marshals office,QUEENS,1
+Building/Use,BRONX,484
+Building/Use,BROOKLYN,867
+Building/Use,MANHATTAN,185
+Building/Use,QUEENS,1594
+Building/Use,STATEN ISLAND,174
+Building/Use,Unspecified,1
+Bus Stop Shelter Complaint,BRONX,25
+Bus Stop Shelter Complaint,BROOKLYN,67
+Bus Stop Shelter Complaint,MANHATTAN,28
+Bus Stop Shelter Complaint,QUEENS,42
+Bus Stop Shelter Complaint,STATEN ISLAND,12
+Bus Stop Shelter Placement,BRONX,4
+Bus Stop Shelter Placement,BROOKLYN,11
+Bus Stop Shelter Placement,MANHATTAN,8
+Bus Stop Shelter Placement,QUEENS,9
+Bus Stop Shelter Placement,STATEN ISLAND,3
+Calorie Labeling,BROOKLYN,3
+Calorie Labeling,MANHATTAN,2
+Commercial Disposal Complaint,BRONX,54
+Commercial Disposal Complaint,BROOKLYN,202
+Commercial Disposal Complaint,MANHATTAN,289
+Commercial Disposal Complaint,QUEENS,105
+Commercial Disposal Complaint,STATEN ISLAND,6
+Construction Lead Dust,BRONX,65
+Construction Lead Dust,BROOKLYN,70
+Construction Lead Dust,MANHATTAN,56
+Construction Lead Dust,QUEENS,34
+Construction Lead Dust,STATEN ISLAND,1
+Consumer Complaint,BRONX,578
+Consumer Complaint,BROOKLYN,1156
+Consumer Complaint,MANHATTAN,1015
+Consumer Complaint,QUEENS,930
+Consumer Complaint,STATEN ISLAND,123
+Consumer Complaint,Unspecified,36
+Cooling Tower,BRONX,1
+Cooling Tower,BROOKLYN,1
+Cooling Tower,MANHATTAN,3
+Cooling Tower,QUEENS,1
+Cranes and Derricks,BRONX,2
+Cranes and Derricks,BROOKLYN,5
+Cranes and Derricks,MANHATTAN,4
+Cranes and Derricks,QUEENS,6
+Curb Condition,BRONX,84
+Curb Condition,BROOKLYN,523
+Curb Condition,MANHATTAN,190
+Curb Condition,QUEENS,382
+Curb Condition,STATEN ISLAND,42
+DEP Highway Condition,BROOKLYN,1
+DEP Street Condition,BRONX,1
+DEP Street Condition,BROOKLYN,2
+DEP Street Condition,QUEENS,105
+DOOR/WINDOW,BRONX,2536
+DOOR/WINDOW,BROOKLYN,2085
+DOOR/WINDOW,MANHATTAN,1358
+DOOR/WINDOW,QUEENS,891
+DOOR/WINDOW,STATEN ISLAND,141
+Damaged Tree,BRONX,744
+Damaged Tree,BROOKLYN,3788
+Damaged Tree,MANHATTAN,454
+Damaged Tree,QUEENS,4121
+Damaged Tree,STATEN ISLAND,1486
+Damaged Tree,Unspecified,2
+Day Care,BRONX,70
+Day Care,BROOKLYN,121
+Day Care,MANHATTAN,49
+Day Care,QUEENS,68
+Day Care,STATEN ISLAND,15
+Dead Animal,BRONX,199
+Dead Animal,BROOKLYN,756
+Dead Animal,MANHATTAN,118
+Dead Animal,QUEENS,608
+Dead Animal,STATEN ISLAND,228
+Dead/Dying Tree,BRONX,166
+Dead/Dying Tree,BROOKLYN,666
+Dead/Dying Tree,MANHATTAN,168
+Dead/Dying Tree,QUEENS,1319
+Dead/Dying Tree,STATEN ISLAND,359
+Dead/Dying Tree,Unspecified,1
+Dept of Investigations,BRONX,1
+Dept of Investigations,QUEENS,1
+Derelict Vehicles,BRONX,1804
+Derelict Vehicles,BROOKLYN,2712
+Derelict Vehicles,MANHATTAN,427
+Derelict Vehicles,QUEENS,3307
+Derelict Vehicles,STATEN ISLAND,245
+Derelict Vehicles,Unspecified,27
+Dirty Condition,BRONX,2005
+Dirty Condition,BROOKLYN,4285
+Dirty Condition,MANHATTAN,2605
+Dirty Condition,QUEENS,2795
+Dirty Condition,STATEN ISLAND,706
+Dirty Condition,Unspecified,3
+Disorderly Youth,BRONX,12
+Disorderly Youth,BROOKLYN,14
+Disorderly Youth,MANHATTAN,512
+Disorderly Youth,QUEENS,8
+Disorderly Youth,STATEN ISLAND,4
+Dispatched Taxi Complaint,BROOKLYN,1
+Dispatched Taxi Complaint,MANHATTAN,2
+Drinking,BRONX,283
+Drinking,BROOKLYN,297
+Drinking,MANHATTAN,151
+Drinking,QUEENS,405
+Drinking,STATEN ISLAND,21
+Drinking,Unspecified,1
+Drinking Water,BRONX,7
+Drinking Water,BROOKLYN,15
+Drinking Water,MANHATTAN,11
+Drinking Water,QUEENS,15
+Drinking Water,STATEN ISLAND,5
+Drug Activity,BRONX,327
+Drug Activity,BROOKLYN,290
+Drug Activity,MANHATTAN,583
+Drug Activity,QUEENS,5125
+Drug Activity,STATEN ISLAND,25
+Dumpster Complaint,BRONX,30
+Dumpster Complaint,BROOKLYN,131
+Dumpster Complaint,MANHATTAN,99
+Dumpster Complaint,QUEENS,119
+Dumpster Complaint,STATEN ISLAND,8
+E-Scooter,BRONX,32
+E-Scooter,BROOKLYN,3
+E-Scooter,MANHATTAN,1
+E-Scooter,QUEENS,202
+ELECTRIC,BRONX,1767
+ELECTRIC,BROOKLYN,1544
+ELECTRIC,MANHATTAN,830
+ELECTRIC,QUEENS,726
+ELECTRIC,STATEN ISLAND,115
+ELEVATOR,BRONX,133
+ELEVATOR,BROOKLYN,98
+ELEVATOR,MANHATTAN,50
+ELEVATOR,QUEENS,49
+Electrical,BRONX,42
+Electrical,BROOKLYN,93
+Electrical,MANHATTAN,76
+Electrical,QUEENS,152
+Electrical,STATEN ISLAND,17
+Electrical,Unspecified,1
+Elevator,BRONX,1780
+Elevator,BROOKLYN,878
+Elevator,MANHATTAN,900
+Elevator,QUEENS,531
+Elevator,STATEN ISLAND,34
+Emergency Response Team (ERT),BRONX,51
+Emergency Response Team (ERT),BROOKLYN,220
+Emergency Response Team (ERT),MANHATTAN,127
+Emergency Response Team (ERT),QUEENS,97
+Emergency Response Team (ERT),STATEN ISLAND,12
+Emergency Response Team (ERT),Unspecified,1
+Encampment,BRONX,344
+Encampment,BROOKLYN,1511
+Encampment,MANHATTAN,5609
+Encampment,QUEENS,954
+Encampment,STATEN ISLAND,36
+Encampment,Unspecified,2
+Executive Inspections,STATEN ISLAND,1
+FLOORING/STAIRS,BRONX,1566
+FLOORING/STAIRS,BROOKLYN,1434
+FLOORING/STAIRS,MANHATTAN,873
+FLOORING/STAIRS,QUEENS,521
+FLOORING/STAIRS,STATEN ISLAND,104
+Ferry Complaint,Unspecified,29
+Ferry Inquiry,Unspecified,57
+Food Establishment,BRONX,210
+Food Establishment,BROOKLYN,703
+Food Establishment,MANHATTAN,878
+Food Establishment,QUEENS,543
+Food Establishment,STATEN ISLAND,62
+Food Establishment,Unspecified,23
+Food Poisoning,BRONX,55
+Food Poisoning,BROOKLYN,126
+Food Poisoning,MANHATTAN,178
+Food Poisoning,QUEENS,121
+Food Poisoning,STATEN ISLAND,16
+Food Poisoning,Unspecified,6
+For Hire Vehicle Complaint,BRONX,188
+For Hire Vehicle Complaint,BROOKLYN,690
+For Hire Vehicle Complaint,MANHATTAN,2016
+For Hire Vehicle Complaint,QUEENS,379
+For Hire Vehicle Complaint,STATEN ISLAND,18
+For Hire Vehicle Complaint,Unspecified,35
+For Hire Vehicle Report,BRONX,9
+For Hire Vehicle Report,BROOKLYN,13
+For Hire Vehicle Report,MANHATTAN,19
+For Hire Vehicle Report,QUEENS,53
+For Hire Vehicle Report,Unspecified,3
+Found Property,BROOKLYN,1
+Found Property,MANHATTAN,11
+Found Property,QUEENS,3
+GENERAL,BRONX,1808
+GENERAL,BROOKLYN,1522
+GENERAL,MANHATTAN,1174
+GENERAL,QUEENS,684
+GENERAL,STATEN ISLAND,76
+General Construction/Plumbing,BRONX,710
+General Construction/Plumbing,BROOKLYN,2488
+General Construction/Plumbing,MANHATTAN,1147
+General Construction/Plumbing,QUEENS,1520
+General Construction/Plumbing,STATEN ISLAND,326
+General Construction/Plumbing,Unspecified,3
+Graffiti,BRONX,382
+Graffiti,BROOKLYN,1944
+Graffiti,MANHATTAN,664
+Graffiti,QUEENS,398
+Graffiti,STATEN ISLAND,136
+Graffiti,Unspecified,3
+Green Taxi Complaint,BRONX,4
+Green Taxi Complaint,BROOKLYN,8
+Green Taxi Complaint,MANHATTAN,21
+Green Taxi Complaint,QUEENS,28
+Green Taxi Complaint,Unspecified,3
+Green Taxi Report,MANHATTAN,2
+Green Taxi Report,QUEENS,4
+HEAT/HOT WATER,BRONX,2227
+HEAT/HOT WATER,BROOKLYN,1929
+HEAT/HOT WATER,MANHATTAN,1778
+HEAT/HOT WATER,QUEENS,835
+HEAT/HOT WATER,STATEN ISLAND,121
+Harboring Bees/Wasps,BRONX,14
+Harboring Bees/Wasps,BROOKLYN,24
+Harboring Bees/Wasps,MANHATTAN,8
+Harboring Bees/Wasps,QUEENS,27
+Harboring Bees/Wasps,STATEN ISLAND,8
+Hazardous Materials,BRONX,32
+Hazardous Materials,BROOKLYN,143
+Hazardous Materials,MANHATTAN,74
+Hazardous Materials,QUEENS,107
+Hazardous Materials,STATEN ISLAND,53
+Hazardous Materials,Unspecified,1
+Highway Condition,BRONX,71
+Highway Condition,BROOKLYN,96
+Highway Condition,MANHATTAN,64
+Highway Condition,QUEENS,232
+Highway Condition,STATEN ISLAND,25
+Highway Sign - Damaged,BRONX,6
+Highway Sign - Damaged,BROOKLYN,10
+Highway Sign - Damaged,MANHATTAN,3
+Highway Sign - Damaged,QUEENS,7
+Highway Sign - Damaged,STATEN ISLAND,1
+Highway Sign - Dangling,BRONX,1
+Highway Sign - Dangling,MANHATTAN,2
+Highway Sign - Missing,BROOKLYN,4
+Highway Sign - Missing,MANHATTAN,1
+Highway Sign - Missing,QUEENS,1
+Homeless Person Assistance,BRONX,333
+Homeless Person Assistance,BROOKLYN,1516
+Homeless Person Assistance,MANHATTAN,5627
+Homeless Person Assistance,QUEENS,1093
+Homeless Person Assistance,STATEN ISLAND,47
+Homeless Person Assistance,Unspecified,1
+Illegal Animal Kept as Pet,BRONX,26
+Illegal Animal Kept as Pet,BROOKLYN,28
+Illegal Animal Kept as Pet,MANHATTAN,13
+Illegal Animal Kept as Pet,QUEENS,25
+Illegal Animal Kept as Pet,STATEN ISLAND,9
+Illegal Animal Sold,BROOKLYN,5
+Illegal Animal Sold,QUEENS,14
+Illegal Animal Sold,STATEN ISLAND,5
+Illegal Dumping,BRONX,1645
+Illegal Dumping,BROOKLYN,2911
+Illegal Dumping,MANHATTAN,1103
+Illegal Dumping,QUEENS,2205
+Illegal Dumping,STATEN ISLAND,303
+Illegal Dumping,Unspecified,7
+Illegal Fireworks,BRONX,1408
+Illegal Fireworks,BROOKLYN,2682
+Illegal Fireworks,MANHATTAN,1672
+Illegal Fireworks,QUEENS,1822
+Illegal Fireworks,STATEN ISLAND,1028
+Illegal Fireworks,Unspecified,1
+Illegal Parking,BRONX,13189
+Illegal Parking,BROOKLYN,32078
+Illegal Parking,MANHATTAN,12366
+Illegal Parking,QUEENS,25863
+Illegal Parking,STATEN ISLAND,2734
+Illegal Parking,Unspecified,10
+Illegal Posting,BRONX,25
+Illegal Posting,BROOKLYN,115
+Illegal Posting,MANHATTAN,41
+Illegal Posting,QUEENS,224
+Illegal Posting,STATEN ISLAND,174
+Illegal Tree Damage,BRONX,145
+Illegal Tree Damage,BROOKLYN,509
+Illegal Tree Damage,MANHATTAN,212
+Illegal Tree Damage,QUEENS,408
+Illegal Tree Damage,STATEN ISLAND,87
+Incorrect Data,BRONX,2
+Incorrect Data,BROOKLYN,3
+Incorrect Data,QUEENS,8
+Indoor Air Quality,BRONX,282
+Indoor Air Quality,BROOKLYN,435
+Indoor Air Quality,MANHATTAN,390
+Indoor Air Quality,QUEENS,345
+Indoor Air Quality,STATEN ISLAND,45
+Indoor Sewage,BRONX,15
+Indoor Sewage,BROOKLYN,32
+Indoor Sewage,MANHATTAN,11
+Indoor Sewage,QUEENS,11
+Indoor Sewage,STATEN ISLAND,8
+Industrial Waste,BRONX,27
+Industrial Waste,BROOKLYN,50
+Industrial Waste,MANHATTAN,35
+Industrial Waste,QUEENS,61
+Industrial Waste,STATEN ISLAND,18
+Institution Disposal Complaint,BRONX,2
+Institution Disposal Complaint,BROOKLYN,2
+Institution Disposal Complaint,MANHATTAN,1
+Institution Disposal Complaint,QUEENS,1
+Institution Disposal Complaint,STATEN ISLAND,1
+Investigations and Discipline (IAD),BRONX,16
+Investigations and Discipline (IAD),BROOKLYN,51
+Investigations and Discipline (IAD),MANHATTAN,17
+Investigations and Discipline (IAD),QUEENS,20
+Investigations and Discipline (IAD),STATEN ISLAND,6
+Lead,BRONX,239
+Lead,BROOKLYN,623
+Lead,MANHATTAN,425
+Lead,QUEENS,457
+Lead,STATEN ISLAND,46
+Lifeguard,BRONX,1
+Lifeguard,BROOKLYN,3
+Lifeguard,MANHATTAN,4
+Lifeguard,QUEENS,8
+LinkNYC,BROOKLYN,7
+LinkNYC,MANHATTAN,18
+LinkNYC,QUEENS,5
+Litter Basket Complaint,BRONX,28
+Litter Basket Complaint,BROOKLYN,114
+Litter Basket Complaint,MANHATTAN,94
+Litter Basket Complaint,QUEENS,75
+Litter Basket Complaint,STATEN ISLAND,18
+Litter Basket Request,BRONX,66
+Litter Basket Request,BROOKLYN,244
+Litter Basket Request,MANHATTAN,236
+Litter Basket Request,QUEENS,159
+Litter Basket Request,STATEN ISLAND,22
+Litter Basket Request,Unspecified,1
+Lost Property,BRONX,5
+Lost Property,BROOKLYN,19
+Lost Property,MANHATTAN,789
+Lost Property,QUEENS,216
+Lost Property,Unspecified,12
+Lot Condition,BRONX,77
+Lot Condition,BROOKLYN,198
+Lot Condition,MANHATTAN,27
+Lot Condition,QUEENS,131
+Lot Condition,STATEN ISLAND,52
+Maintenance or Facility,BRONX,1141
+Maintenance or Facility,BROOKLYN,2808
+Maintenance or Facility,MANHATTAN,1708
+Maintenance or Facility,QUEENS,2069
+Maintenance or Facility,STATEN ISLAND,290
+Missed Collection,BRONX,405
+Missed Collection,BROOKLYN,2113
+Missed Collection,MANHATTAN,577
+Missed Collection,QUEENS,1856
+Missed Collection,STATEN ISLAND,608
+Mobile Food Vendor,BRONX,54
+Mobile Food Vendor,BROOKLYN,559
+Mobile Food Vendor,MANHATTAN,667
+Mobile Food Vendor,QUEENS,227
+Mobile Food Vendor,STATEN ISLAND,5
+Mobile Food Vendor,Unspecified,1
+Mold,BRONX,8
+Mold,BROOKLYN,14
+Mold,MANHATTAN,20
+Mold,QUEENS,18
+Mold,STATEN ISLAND,6
+Mosquitoes,BRONX,15
+Mosquitoes,BROOKLYN,44
+Mosquitoes,MANHATTAN,8
+Mosquitoes,QUEENS,57
+Mosquitoes,STATEN ISLAND,15
+Municipal Parking Facility,Unspecified,11
+New Tree Request,BRONX,402
+New Tree Request,BROOKLYN,2143
+New Tree Request,MANHATTAN,1323
+New Tree Request,QUEENS,969
+New Tree Request,STATEN ISLAND,140
+New Tree Request,Unspecified,1
+Noise,BRONX,747
+Noise,BROOKLYN,2589
+Noise,MANHATTAN,2429
+Noise,QUEENS,1492
+Noise,STATEN ISLAND,238
+Noise - Commercial,BRONX,1450
+Noise - Commercial,BROOKLYN,3877
+Noise - Commercial,MANHATTAN,2991
+Noise - Commercial,QUEENS,2104
+Noise - Commercial,STATEN ISLAND,247
+Noise - Helicopter,BRONX,63
+Noise - Helicopter,BROOKLYN,138
+Noise - Helicopter,MANHATTAN,3492
+Noise - Helicopter,QUEENS,1495
+Noise - Helicopter,STATEN ISLAND,2
+Noise - House of Worship,BRONX,38
+Noise - House of Worship,BROOKLYN,66
+Noise - House of Worship,MANHATTAN,34
+Noise - House of Worship,QUEENS,41
+Noise - House of Worship,STATEN ISLAND,2
+Noise - Park,BRONX,611
+Noise - Park,BROOKLYN,631
+Noise - Park,MANHATTAN,511
+Noise - Park,QUEENS,777
+Noise - Park,STATEN ISLAND,42
+Noise - Residential,BRONX,16343
+Noise - Residential,BROOKLYN,16392
+Noise - Residential,MANHATTAN,9156
+Noise - Residential,QUEENS,14203
+Noise - Residential,STATEN ISLAND,2102
+Noise - Residential,Unspecified,1
+Noise - Street/Sidewalk,BRONX,16837
+Noise - Street/Sidewalk,BROOKLYN,10473
+Noise - Street/Sidewalk,MANHATTAN,12962
+Noise - Street/Sidewalk,QUEENS,6455
+Noise - Street/Sidewalk,STATEN ISLAND,592
+Noise - Street/Sidewalk,Unspecified,1
+Noise - Vehicle,BRONX,3338
+Noise - Vehicle,BROOKLYN,2312
+Noise - Vehicle,MANHATTAN,1851
+Noise - Vehicle,QUEENS,1620
+Noise - Vehicle,STATEN ISLAND,159
+Non-Emergency Police Matter,BRONX,512
+Non-Emergency Police Matter,BROOKLYN,817
+Non-Emergency Police Matter,MANHATTAN,1142
+Non-Emergency Police Matter,QUEENS,1228
+Non-Emergency Police Matter,STATEN ISLAND,229
+OUTSIDE BUILDING,BRONX,37
+OUTSIDE BUILDING,BROOKLYN,64
+OUTSIDE BUILDING,MANHATTAN,39
+OUTSIDE BUILDING,QUEENS,38
+OUTSIDE BUILDING,STATEN ISLAND,10
+Obstruction,BRONX,497
+Obstruction,BROOKLYN,1111
+Obstruction,MANHATTAN,1043
+Obstruction,QUEENS,1449
+Obstruction,STATEN ISLAND,521
+Obstruction,Unspecified,1
+Oil or Gas Spill,BROOKLYN,1
+Oil or Gas Spill,MANHATTAN,1
+Oil or Gas Spill,QUEENS,1
+Outdoor Dining,BRONX,19
+Outdoor Dining,BROOKLYN,202
+Outdoor Dining,MANHATTAN,536
+Outdoor Dining,QUEENS,140
+Outdoor Dining,STATEN ISLAND,12
+Overgrown Tree/Branches,BRONX,554
+Overgrown Tree/Branches,BROOKLYN,2910
+Overgrown Tree/Branches,MANHATTAN,218
+Overgrown Tree/Branches,QUEENS,2766
+Overgrown Tree/Branches,STATEN ISLAND,1017
+Overgrown Tree/Branches,Unspecified,1
+PAINT/PLASTER,BRONX,3957
+PAINT/PLASTER,BROOKLYN,3161
+PAINT/PLASTER,MANHATTAN,1972
+PAINT/PLASTER,QUEENS,1298
+PAINT/PLASTER,STATEN ISLAND,179
+PLUMBING,BRONX,3890
+PLUMBING,BROOKLYN,3193
+PLUMBING,MANHATTAN,2049
+PLUMBING,QUEENS,1566
+PLUMBING,STATEN ISLAND,214
+Panhandling,BRONX,213
+Panhandling,BROOKLYN,381
+Panhandling,MANHATTAN,1355
+Panhandling,QUEENS,418
+Panhandling,STATEN ISLAND,42
+Pet Shop,BRONX,8
+Pet Shop,BROOKLYN,11
+Pet Shop,MANHATTAN,10
+Pet Shop,QUEENS,16
+Pet Shop,STATEN ISLAND,2
+Plant,BROOKLYN,11
+Plant,MANHATTAN,1
+Plant,QUEENS,14
+Plant,STATEN ISLAND,2
+Plumbing,BRONX,75
+Plumbing,BROOKLYN,164
+Plumbing,MANHATTAN,78
+Plumbing,QUEENS,187
+Plumbing,STATEN ISLAND,29
+Plumbing,Unspecified,1
+Poison Ivy,BRONX,8
+Poison Ivy,BROOKLYN,7
+Poison Ivy,MANHATTAN,1
+Poison Ivy,QUEENS,24
+Poison Ivy,STATEN ISLAND,20
+Posting Advertisement,BRONX,1
+Posting Advertisement,BROOKLYN,9
+Posting Advertisement,MANHATTAN,8
+Posting Advertisement,QUEENS,8
+Public Payphone Complaint,MANHATTAN,1
+Public Toilet,BRONX,2
+Public Toilet,BROOKLYN,5
+Public Toilet,MANHATTAN,3
+Public Toilet,QUEENS,3
+Radioactive Material,BROOKLYN,1
+Radioactive Material,STATEN ISLAND,1
+Real Time Enforcement,BRONX,60
+Real Time Enforcement,BROOKLYN,398
+Real Time Enforcement,MANHATTAN,241
+Real Time Enforcement,QUEENS,138
+Real Time Enforcement,STATEN ISLAND,14
+Real Time Enforcement,Unspecified,2
+Recycling Basket Complaint,BRONX,2
+Recycling Basket Complaint,BROOKLYN,9
+Recycling Basket Complaint,MANHATTAN,3
+Recycling Basket Complaint,QUEENS,4
+Recycling Basket Complaint,STATEN ISLAND,1
+Residential Disposal Complaint,BRONX,251
+Residential Disposal Complaint,BROOKLYN,679
+Residential Disposal Complaint,MANHATTAN,399
+Residential Disposal Complaint,QUEENS,455
+Residential Disposal Complaint,STATEN ISLAND,145
+Rodent,BRONX,1130
+Rodent,BROOKLYN,3060
+Rodent,MANHATTAN,2012
+Rodent,QUEENS,1607
+Rodent,STATEN ISLAND,321
+Root/Sewer/Sidewalk Condition,BRONX,214
+Root/Sewer/Sidewalk Condition,BROOKLYN,685
+Root/Sewer/Sidewalk Condition,MANHATTAN,57
+Root/Sewer/Sidewalk Condition,QUEENS,780
+Root/Sewer/Sidewalk Condition,STATEN ISLAND,316
+SAFETY,BRONX,724
+SAFETY,BROOKLYN,710
+SAFETY,MANHATTAN,415
+SAFETY,QUEENS,343
+SAFETY,STATEN ISLAND,55
+Sanitation Worker or Vehicle Complaint,BRONX,50
+Sanitation Worker or Vehicle Complaint,BROOKLYN,143
+Sanitation Worker or Vehicle Complaint,MANHATTAN,93
+Sanitation Worker or Vehicle Complaint,QUEENS,141
+Sanitation Worker or Vehicle Complaint,STATEN ISLAND,47
+Scaffold Safety,BRONX,4
+Scaffold Safety,BROOKLYN,12
+Scaffold Safety,MANHATTAN,13
+Scaffold Safety,QUEENS,4
+Scaffold Safety,STATEN ISLAND,1
+School Maintenance,BRONX,69
+School Maintenance,BROOKLYN,246
+School Maintenance,MANHATTAN,36
+School Maintenance,QUEENS,118
+School Maintenance,STATEN ISLAND,23
+Sewer,BRONX,501
+Sewer,BROOKLYN,1465
+Sewer,MANHATTAN,311
+Sewer,QUEENS,1782
+Sewer,STATEN ISLAND,504
+Sidewalk Condition,BRONX,461
+Sidewalk Condition,BROOKLYN,1686
+Sidewalk Condition,MANHATTAN,810
+Sidewalk Condition,QUEENS,1530
+Sidewalk Condition,STATEN ISLAND,250
+Smoking,BRONX,2
+Smoking,BROOKLYN,2
+Smoking,MANHATTAN,1
+Smoking or Vaping,BRONX,103
+Smoking or Vaping,BROOKLYN,151
+Smoking or Vaping,MANHATTAN,169
+Smoking or Vaping,QUEENS,141
+Smoking or Vaping,STATEN ISLAND,15
+Snow or Ice,MANHATTAN,6
+Special Natural Area District (SNAD),BRONX,1
+Special Natural Area District (SNAD),BROOKLYN,1
+Special Natural Area District (SNAD),QUEENS,1
+Special Natural Area District (SNAD),STATEN ISLAND,1
+Special Projects Inspection Team (SPIT),BRONX,39
+Special Projects Inspection Team (SPIT),BROOKLYN,289
+Special Projects Inspection Team (SPIT),MANHATTAN,257
+Special Projects Inspection Team (SPIT),QUEENS,213
+Special Projects Inspection Team (SPIT),STATEN ISLAND,33
+Squeegee,QUEENS,1
+Standing Water,BRONX,59
+Standing Water,BROOKLYN,159
+Standing Water,MANHATTAN,67
+Standing Water,QUEENS,126
+Standing Water,STATEN ISLAND,98
+Standing Water,Unspecified,1
+Street Condition,BRONX,1330
+Street Condition,BROOKLYN,4099
+Street Condition,MANHATTAN,2018
+Street Condition,QUEENS,4749
+Street Condition,STATEN ISLAND,1057
+Street Condition,Unspecified,20
+Street Light Condition,BRONX,816
+Street Light Condition,BROOKLYN,1307
+Street Light Condition,MANHATTAN,637
+Street Light Condition,QUEENS,1287
+Street Light Condition,STATEN ISLAND,379
+Street Light Condition,Unspecified,53
+Street Sign - Damaged,BRONX,85
+Street Sign - Damaged,BROOKLYN,241
+Street Sign - Damaged,MANHATTAN,138
+Street Sign - Damaged,QUEENS,323
+Street Sign - Damaged,STATEN ISLAND,109
+Street Sign - Damaged,Unspecified,1
+Street Sign - Dangling,BRONX,66
+Street Sign - Dangling,BROOKLYN,101
+Street Sign - Dangling,MANHATTAN,70
+Street Sign - Dangling,QUEENS,180
+Street Sign - Dangling,STATEN ISLAND,60
+Street Sign - Missing,BRONX,74
+Street Sign - Missing,BROOKLYN,143
+Street Sign - Missing,MANHATTAN,94
+Street Sign - Missing,QUEENS,238
+Street Sign - Missing,STATEN ISLAND,51
+Street Sweeping Complaint,BRONX,234
+Street Sweeping Complaint,BROOKLYN,754
+Street Sweeping Complaint,MANHATTAN,175
+Street Sweeping Complaint,QUEENS,230
+Street Sweeping Complaint,STATEN ISLAND,3
+Street Sweeping Complaint,Unspecified,1
+Tattooing,BRONX,4
+Tattooing,BROOKLYN,19
+Tattooing,MANHATTAN,6
+Tattooing,QUEENS,8
+Tattooing,STATEN ISLAND,3
+Taxi Complaint,BRONX,4
+Taxi Complaint,BROOKLYN,36
+Taxi Complaint,MANHATTAN,623
+Taxi Complaint,QUEENS,562
+Taxi Complaint,Unspecified,52
+Taxi Compliment,BROOKLYN,1
+Taxi Compliment,MANHATTAN,12
+Taxi Compliment,QUEENS,4
+Taxi Licensee Complaint,BRONX,1
+Taxi Licensee Complaint,MANHATTAN,1
+Taxi Licensee Complaint,QUEENS,1
+Taxi Report,BRONX,1
+Taxi Report,BROOKLYN,5
+Taxi Report,MANHATTAN,66
+Taxi Report,QUEENS,50
+Taxi Report,STATEN ISLAND,2
+Taxi Report,Unspecified,5
+Traffic,BRONX,110
+Traffic,BROOKLYN,300
+Traffic,MANHATTAN,187
+Traffic,QUEENS,1397
+Traffic,STATEN ISLAND,82
+Traffic Signal Condition,BRONX,869
+Traffic Signal Condition,BROOKLYN,2165
+Traffic Signal Condition,MANHATTAN,1233
+Traffic Signal Condition,QUEENS,1665
+Traffic Signal Condition,STATEN ISLAND,348
+Traffic Signal Condition,Unspecified,37
+Transfer Station Complaint,BROOKLYN,2
+Transfer Station Complaint,QUEENS,1
+UNSANITARY CONDITION,BRONX,6970
+UNSANITARY CONDITION,BROOKLYN,6806
+UNSANITARY CONDITION,MANHATTAN,4016
+UNSANITARY CONDITION,QUEENS,3281
+UNSANITARY CONDITION,STATEN ISLAND,505
+Unleashed Dog,BRONX,41
+Unleashed Dog,BROOKLYN,93
+Unleashed Dog,MANHATTAN,47
+Unleashed Dog,QUEENS,79
+Unleashed Dog,STATEN ISLAND,22
+Unsanitary Animal Facility,BRONX,3
+Unsanitary Animal Facility,BROOKLYN,3
+Unsanitary Animal Facility,MANHATTAN,1
+Unsanitary Animal Facility,QUEENS,8
+Unsanitary Animal Facility,STATEN ISLAND,1
+Unsanitary Animal Pvt Property,BRONX,102
+Unsanitary Animal Pvt Property,BROOKLYN,195
+Unsanitary Animal Pvt Property,MANHATTAN,75
+Unsanitary Animal Pvt Property,QUEENS,134
+Unsanitary Animal Pvt Property,STATEN ISLAND,45
+Unsanitary Pigeon Condition,BRONX,26
+Unsanitary Pigeon Condition,BROOKLYN,63
+Unsanitary Pigeon Condition,MANHATTAN,128
+Unsanitary Pigeon Condition,QUEENS,75
+Unsanitary Pigeon Condition,STATEN ISLAND,13
+Uprooted Stump,BRONX,4
+Uprooted Stump,BROOKLYN,10
+Uprooted Stump,MANHATTAN,5
+Uprooted Stump,QUEENS,24
+Uprooted Stump,STATEN ISLAND,15
+Urinating in Public,BRONX,28
+Urinating in Public,BROOKLYN,55
+Urinating in Public,MANHATTAN,79
+Urinating in Public,QUEENS,91
+Urinating in Public,STATEN ISLAND,8
+Vendor Enforcement,BRONX,307
+Vendor Enforcement,BROOKLYN,844
+Vendor Enforcement,MANHATTAN,3193
+Vendor Enforcement,QUEENS,898
+Vendor Enforcement,STATEN ISLAND,44
+Vendor Enforcement,Unspecified,3
+Violation of Park Rules,BRONX,292
+Violation of Park Rules,BROOKLYN,361
+Violation of Park Rules,MANHATTAN,438
+Violation of Park Rules,QUEENS,467
+Violation of Park Rules,STATEN ISLAND,42
+WATER LEAK,BRONX,2359
+WATER LEAK,BROOKLYN,2226
+WATER LEAK,MANHATTAN,1247
+WATER LEAK,QUEENS,794
+WATER LEAK,STATEN ISLAND,131
+Water Conservation,BRONX,351
+Water Conservation,BROOKLYN,250
+Water Conservation,MANHATTAN,128
+Water Conservation,QUEENS,327
+Water Conservation,STATEN ISLAND,67
+Water Quality,BRONX,36
+Water Quality,BROOKLYN,70
+Water Quality,MANHATTAN,38
+Water Quality,QUEENS,40
+Water Quality,STATEN ISLAND,18
+Water System,BRONX,7358
+Water System,BROOKLYN,4688
+Water System,MANHATTAN,4079
+Water System,QUEENS,4782
+Water System,STATEN ISLAND,742
+Water System,Unspecified,4
+Window Guard,BRONX,2
+Window Guard,BROOKLYN,1
+Window Guard,MANHATTAN,1
+Wood Pile Remaining,BRONX,10
+Wood Pile Remaining,BROOKLYN,135
+Wood Pile Remaining,MANHATTAN,12
+Wood Pile Remaining,QUEENS,152
+Wood Pile Remaining,STATEN ISLAND,71
